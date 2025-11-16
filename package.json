@@ -2,11 +2,10 @@
   "name": "jssip",
   "title": "JsSIP",
   "description": "the Javascript SIP library",
-  "version": "3.10.1-rn-6",
+  "version": "3.10.1-rn-7",
   "homepage": "https://jssip.net",
   "contributors": [
-    "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
-    "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)"
+    "Mohamed Hisham"
   ],
   "types": "lib/JsSIP.d.ts",
   "main": "lib/JsSIP.js",
@@ -32,7 +31,7 @@
     "debug": "^4.3.1",
     "events": "^3.3.0",
     "sdp-transform": "^2.14.1",
-    "react-native-webrtc": "^124.0.4"
+    "react-native-webrtc": "^124.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.19.6",
