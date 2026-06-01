@@ -35,6 +35,7 @@
 		"lib"
 	],
 	"scripts": {
+		"prepare": "npm run build",
 		"lint": "node npm-scripts.mjs lint",
 		"lint:fix": "node npm-scripts.mjs lint:fix",
 		"test": "node npm-scripts.mjs test",

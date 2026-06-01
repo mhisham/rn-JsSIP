@@ -55,6 +55,7 @@ export interface UAConfiguration {
 	register_from_tag_trail?: string | (() => string);
 	registrar_server?: string;
 	use_preloaded_route?: boolean;
+	set_registration_timeout?: boolean;
 	user_agent?: string;
 	extra_headers?: string[];
 }
