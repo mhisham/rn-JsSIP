@@ -1,2 +1,9 @@
-/node_modules/
-/lib-es5/
+## Node.
+/node_modules
+/lib
+/dist
+
+## Others.
+/docs
+/coverage
+/.cache
